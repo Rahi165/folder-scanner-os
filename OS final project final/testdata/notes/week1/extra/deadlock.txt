@@ -1,0 +1,2 @@
+Deadlock happens when threads wait for each other forever.
+Careful lock ordering prevents deadlock between threads.

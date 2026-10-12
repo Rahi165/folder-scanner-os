@@ -1,0 +1,3 @@
+Operating systems use threads to run work in parallel.
+A thread shares memory with the other threads of its process.
+Mutex locks protect shared data from race conditions.

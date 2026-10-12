@@ -1,0 +1,3 @@
+A process is a running program with its own address space.
+The operating systems scheduler decides which process runs next.
+Processes communicate using pipes and sockets.

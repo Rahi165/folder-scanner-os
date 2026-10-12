@@ -1,0 +1,3 @@
+Paging splits memory into fixed size frames.
+Virtual memory lets every process believe it owns the whole address space.
+Operating systems keep a page table for each process.

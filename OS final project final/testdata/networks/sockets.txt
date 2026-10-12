@@ -1,0 +1,2 @@
+Sockets let two processes exchange data over a network.
+A UNIX domain socket connects processes on the same machine.

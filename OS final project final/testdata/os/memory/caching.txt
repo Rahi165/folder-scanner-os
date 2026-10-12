@@ -1,0 +1,2 @@
+Caching keeps recently used data close to the processor.
+A cache miss forces the operating systems to wait for slower memory.

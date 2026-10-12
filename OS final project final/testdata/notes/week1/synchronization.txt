@@ -1,0 +1,3 @@
+Synchronization uses mutex locks, condition variables and semaphores.
+Threads wait on a condition variable until work is available.
+Operating systems provide these tools to avoid deadlock.

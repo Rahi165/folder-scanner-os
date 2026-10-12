@@ -1,0 +1,3 @@
+Scheduling policies include round robin and priority scheduling.
+The scheduler gives each thread a time slice on the processor.
+Operating systems balance fairness and throughput.
